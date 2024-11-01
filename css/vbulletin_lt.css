@@ -1,0 +1,33 @@
+#vbulletin-latest-threads #vbulletin_lt_content li{
+display: block;
+margin-top: 5px;
+}
+
+#vbulletin-latest-threads #vbulletin_lt_content .vblt_avatar{
+width: 50px;
+overflow: hidden;
+height: 60px;
+margin-top: 5px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+display: block;
+float: left;
+text-align: center;
+margin-right: 5px;
+}
+
+#vbulletin-latest-threads #vbulletin_lt_content .vblt_title{
+display: block;
+padding: 0px;
+}
+
+#vbulletin-latest-threads #vbulletin_lt_content  a{
+text-decoration: none;
+font-weight: bold;
+}
+
+#vbulletin-latest-threads #vbulletin_lt_content  a:hover{
+text-decoration: underline;
+font-weight: bold;
+}
